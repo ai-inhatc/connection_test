@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "홍길동",
+    "email": "hgd@example.com",
+    "role": "admin",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "김철수",
+    "email": "kcs@example.com",
+    "role": "user",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "이영희",
+    "email": "lyh@example.com",
+    "role": "user",
+    "status": "inactive"
+  },
+  {
+    "id": 4,
+    "name": "박민수",
+    "email": "pms@example.com",
+    "role": "guest",
+    "status": "active"
+  }
+]

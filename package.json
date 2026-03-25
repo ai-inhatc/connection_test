@@ -1,0 +1,13 @@
+{
+  "name": "dummy-project",
+  "version": "1.0.0",
+  "description": "A dummy project to test automated build and test workflows.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "echo 'Checking syntax...' && node -c src/math.js && node -c src/app.js",
+    "test": "echo 'Running tests...' && node tests/math.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
